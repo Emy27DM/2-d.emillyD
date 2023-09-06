@@ -1,4 +1,7 @@
-
+body{
+background-color: black;
+}
 p {
-    font-size: 40 px
+    font-size: 40px;
+    color: rgb(255, 255, 255);
 }
